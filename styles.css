@@ -408,5 +408,6 @@ body {
 
 /* CV STYLING */
 
-
-
+iframe {
+  margin-left: 5%;
+}
